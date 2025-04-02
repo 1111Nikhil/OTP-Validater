@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.OTPBOX {
+  height: 30px;
+  width: 30px;
+  font-size: 25px;
+  text-align: center;
+}
